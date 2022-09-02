@@ -1,4 +1,4 @@
-# Meta-Learned-Models-of-Cognition
+# Meta-Learned Models of Cognition
 
 Research in cognitive psychology and neuroscience relies on computational models to study, analyze and understand human learning. Traditionally, such computational models have been and designed by expert researchers. In a cognitive architecture, for example, researchers provide a fixed set of structures and a definition of how these structures interact with each other. In a Bayesian model, researchers instead specify a prior and a likelihood function, which in combination with Bayes’ rule, fully determine the model's behavior. The framework of meta-learning offers a radically different approach for constructing computational models of learning. In this framework, learning algorithms are acquired – i.e., they are themselves learned – through repeated interactions with an environment instead of being a priori defined by a researcher.
 
